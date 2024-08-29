@@ -1,7 +1,7 @@
 ---
 icon: globe
-cover: .gitbook/assets/Zyfi Logo long white.png
-coverY: 46.336
+cover: .gitbook/assets/1000062565.png
+coverY: 0
 layout:
   cover:
     visible: true
