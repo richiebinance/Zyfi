@@ -1,10 +1,11 @@
 ---
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+icon: globe
+cover: .gitbook/assets/Zyfi Logo long white.png
+coverY: 46.336
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -17,12 +18,10 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to Zyfi
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Hello, Let me introduce myself, I am Richard, here I will explain what Zyfi is and the various features in it.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Introduction to Zyfi</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>How Zyfi works ?</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr><tr><td><strong>Benefits of using Zyfi for a Dapp</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/benefits-of-using-zyfi-for-a-dapp.md">benefits-of-using-zyfi-for-a-dapp.md</a></td></tr><tr><td><strong>Practical Tutorial</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/practical-tutorial.md">practical-tutorial.md</a></td></tr><tr><td><strong>Comparative Study</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/comparative-study.md">comparative-study.md</a></td></tr><tr><td><strong>Partnership Statement</strong></td><td></td><td><a href=".gitbook/assets/Desain tanpa judul (28).png">Desain tanpa judul (28).png</a></td><td></td><td><a href="getting-started/partnership-statement.md">partnership-statement.md</a></td></tr></tbody></table>
